@@ -1,5 +1,5 @@
 
-# Running locally
+## Running locally
 
 In the root directory, start the backend by running:
 ```bash
